@@ -1,3 +1,4 @@
 new file in patch22
 
 hello from patch 22 file
+quote of the day: today is Monday, but looks like a sunday
